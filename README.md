@@ -1,88 +1,84 @@
-# 👋 Hi, I'm Deepanshu Chauhan
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/> , 
+  I'm Deepanshu Chauhan
+</h1>
 
-🚀 **Backend Developer | Java & Node.js**  
-🎯 Focused on **DSA, System Design, and scalable backend systems**
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepanshu954&color=0d1117&style=for-the-badge" />
+  Backend Engineer | DSA | System Design
+</h2>
 
----
-
-## 🧠 About Me
-- 🎓 B.Tech CSE (3rd Year)
-- 💻 Strong in **Backend Development**
-- 🔁 Actively solving **DSA (C++)**
-- 🛠 Building real-world projects with **Java, Node.js & Databases**
-- 📈 Consistent contributor with high GitHub activity
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- Java  
-- C++  
-- JavaScript / TypeScript  
-
-### Backend
-- Node.js, Express.js  
-- REST APIs  
-- Authentication (JWT)  
-
-### Databases
-- MongoDB  
-- PostgreSQL (learning)
-
-### Frontend (supporting)
-- React  
-- Next.js  
-- Tailwind CSS  
-
-### Tools
-- Git & GitHub  
-- Postman  
-- MongoDB Atlas  
+<div align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</div>
 
 ---
 
-## 🔥 Featured Projects
+<details>
+ <summary><h2> 📄 Resume </h2></summary>
 
-### 🔐 SecureCourse
-> Java-based secure course platform  
-**Tech:** Java, Backend Architecture  
+ <details>
+  <summary><h4> 🎓 Academics</h4></summary>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Year-3rd-0D1117?style=for-the-badge"/>
+ </details>
 
-### 🌍 Mystic_India
-> Full-stack TypeScript project  
-**Tech:** TypeScript, Web Stack  
-
-### 🧠 JobPrediction
-> ML-based job prediction system  
-**Tech:** Python, Jupyter Notebook  
-
-### 🏋️ fitTrackPro
-> Personal fitness & wellness dashboard  
-**Tech:** JavaScript, Full Stack  
-
-### 📚 LeetCode C++
-> Curated DSA solutions for interview prep  
-**Tech:** C++
+ <details>
+  <summary><h4> 💼 Experience</h4></summary>
+  - Backend-focused academic & self-driven projects  
+  - Strong CS fundamentals: **DSA, OS, DBMS, CN, OOPS**
+ </details>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<details>
+ <summary><h4> 🧩 Coding Handles</h4></summary>
 
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu954&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu954&layout=compact&theme=tokyonight)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/Deepanshu954)
 
----
+ [![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/e23cseu1617)
 
-## 📈 Consistency
-- 🔥 1600+ contributions in last year
-- 🧩 Strong problem-solving habit
-- 🛠 Project-driven learning
+</details>
 
 ---
 
-## 🤝 Connect With Me
-- GitHub: https://github.com/Deepanshu954
+<details>
+ <summary><h4> 🚀 Projects</h4></summary>
+
+ #### <a href="https://github.com/Deepanshu954">SecureCourse</a>
+ <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge"/>
+ - Secure backend APIs with authentication  
+ - Clean architecture & scalable design
+
+ #### <a href="https://github.com/Deepanshu954">fitTrackPro</a>
+ <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge"/>
+ - Fitness tracking backend system  
+ - REST APIs, validation & persistence
+
+</details>
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+<details>
+ <summary><h2> 📊 GitHub Stats </h2></summary>
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu954&theme=github_dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu954&theme=github-dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu954&layout=compact&theme=github_dark&hide_border=true"/>
+ </div>
+</details>
+
+---
+
+### 🧠 LeetCode Stats
+<div align="center">
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Deepanshu954?theme=dark&font=baloo)
+
+</div>
