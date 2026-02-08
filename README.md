@@ -15,17 +15,12 @@
 </div>
 
 
-
-<h2>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/about.png"
-       width="37" />
-  Resume
-</h2>
+📄 **Resume:**  
+<a href="https://github.com/Deepanshu954/Deepanshu954/asset/resume.pdf" target="_blank">Click to View Resume</a>
 
 <h4>
   <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/academics.gif"
+       src="https://github.com/Deepanshu954/Deepanshu954/asset/as.gif"
        width="29"/>
   Academics
 </h4>
