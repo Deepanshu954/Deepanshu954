@@ -127,11 +127,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu954&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu954&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu954&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepanshu954&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu954&theme=tokyonight&hide_border=false&layout=compact)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshu954&theme=github_dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu954&theme=tokyo-night)
 
