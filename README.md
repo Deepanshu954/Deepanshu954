@@ -16,7 +16,7 @@
 
 
 📄 **Resume:**  
-<a href="https://github.com/Deepanshu954/Deepanshu954/asset/resume.pdf" target="_blank">Click to View Resume</a>
+<a href="https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume.png" target="_blank">Click to View Resume</a>
 
 <h4>
   <img align="center"
