@@ -1,165 +1,193 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/> , 
-  I'm Deepanshu Chauhan
+  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Deepanshu Chauhan
 </h1>
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepanshu954&color=dc143c&style=for-the-badge"
-       alt="Profile Views"
-       style="height:21px;">
-  Java Backend Developer • DSA
-</h2>
+<h3 align="center">
+  Java Backend Developer | System Design Enthusiast | Competitive Programmer
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepanshu954&color=dc143c&style=flat-square" alt="Profile Views"/>
+</p>
 
 <div align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
+---
 
-📄 **Resume:**  
-<a href="https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume.png" target="_blank">Click to View Resume</a>
+## 👨‍💻 About Me
 
-<h4>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/asset/as.gif"
-       width="29"/>
-  Academics
-</h4>
-
-<span>
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1877F2?style=for-the-badge">
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Status-Currently%20Pursuing-EFEEE9?style=for-the-badge">
-</span>
-
-
-
-<h4>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/experience.gif"
-       width="29"/>
-  Experience
-</h4>
-
-- **Backend & Full-Stack Projects**
-  - Built multiple projects using Java, Node.js, React, and Web technologies
-  - Strong focus on **DSA**, **problem solving**, and **system fundamentals**
- 
-
-
-
-<h4>
-  <img align="center"
-       src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"
-       width="29"/>
-  DSA Handles
-</h4>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06)](https://www.leetcode.com/Deepanshu954)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Deepanshu954)
+- 🎓 **B.Tech in Computer Science & Engineering** | Bennett University | Expected Graduation: May 2027
+- 💼 **Currently Seeking:** Backend Development roles (Java/Spring Boot)
+- 🧠 **Core Expertise:** Data Structures & Algorithms, System Design, Backend Development
+- 💪 **LeetCode:** 500+ problems solved | Rating: 1550+ | Focus: Graphs, DP, Advanced DS
+- 🔧 **Building:** Scalable distributed systems with microservices architecture
+- 📫 **Reach me:** deepanshu95488@gmail.com
 
 ---
 
-<h4>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/techstack.gif"
-       width="29"/>
-  Tech Stack
-</h4>
+## 🔗 Connect With Me
 
-<!-- Current Focus -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge)
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepanshu954/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Deepanshu954/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Deepanshu954" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:deepanshu95488@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<!-- Previous / Experience -->
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<h4>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/projects.gif"
-       width="29"/>
-  Projects
-</h4>
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
-### 🔹 <a href="https://github.com/Deepanshu954/Mystic_India" target="_blank">Mystic India</a>  
-<a href="https://mystic-india.netlify.app/" target="_blank">🌐 Live Demo</a>
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
-
-- Built a responsive cultural showcase website highlighting India’s heritage.
-- Deployed on Netlify with optimized performance and clean UI.
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 🔹 <a href="https://github.com/Deepanshu954/Blockchain-Applications" target="_blank">Blockchain Applications</a>  
-<a href="https://blockchain-applications-medc.vercel.app/" target="_blank">🌐 Live Demo</a>
+## 🚀 Featured Projects
 
-<span>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white">
-  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</span>
+### 🔹 [Sentinel - ML-Powered Auto-Scaling System](https://github.com/Deepanshu954/sentinel)
+**Tech Stack:** Go, Java/Spring Boot, Python/FastAPI, Kafka, InfluxDB, Prometheus, Grafana, XGBoost
 
-- Developed decentralized application demos exploring blockchain concepts.
-- Deployed using Vercel with focus on frontend–Web3 interaction.
+- Designed and implemented a distributed auto-scaling system using ML-based traffic prediction
+- Built Go-based API Gateway with health checks and request routing
+- Developed Java orchestrator with Spring Boot for resource management and scaling decisions
+- Integrated XGBoost + Isolation Forest for anomaly detection and traffic forecasting
+- Implemented real-time monitoring with Kafka, InfluxDB, Prometheus, and Grafana dashboards
+- Achieved 28/30 validation checks passing (targeting full production readiness)
 
+---
 
-<h2>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/stats.gif"
-       width="32"/>
-  Stats
-</h2>
+### 🔹 [Distributed URL Shortener Service](https://github.com/Deepanshu954/url-shortener)
+**Tech Stack:** Java/Spring Boot, Redis, PostgreSQL, Docker, AWS
+
+- Built high-performance URL shortening service with distributed architecture
+- Implemented Base62 encoding algorithm for compact URL generation
+- Used Redis for sub-millisecond lookup performance and PostgreSQL for persistence
+- Designed RESTful APIs with Spring Boot and Spring Security for authentication
+- Containerized application using Docker for seamless deployment
+- Deployed on AWS with auto-scaling and load balancing capabilities
+
+---
+
+### 🔹 [Mystic India - Cultural Showcase Platform](https://github.com/Deepanshu954/Mystic_India) | [Live Demo](https://mystic-india.netlify.app/)
+**Tech Stack:** HTML5, CSS3, JavaScript, Netlify
+
+- Developed responsive frontend showcasing Indian cultural heritage with modern UI/UX
+- Implemented performance optimizations achieving 90+ Lighthouse scores
+- Deployed on Netlify with CI/CD pipeline for automated deployments
+
+---
+
+### 🔹 [Blockchain Applications Explorer](https://github.com/Deepanshu954/Blockchain-Applications) | [Live Demo](https://blockchain-applications-medc.vercel.app/)
+**Tech Stack:** React, Web3.js, TypeScript, Vercel
+
+- Built decentralized application demonstrating blockchain concepts and smart contract interactions
+- Integrated Web3.js for Ethereum blockchain connectivity
+- Implemented responsive React components with TypeScript for type safety
+
+---
+
+## 📚 Research & Academic Work
+
+### **Community Detection in Social Networks** | Semester VI Project
+- Proposed DW-Louvain framework combining Louvain algorithm with Independent Cascade diffusion model
+- Applied to Facebook Social Circles dataset for community structure analysis
+- Collaborated with team members on research paper and implementation
+
+---
+
+## 📜 Certifications
+
+- ✅ **AWS Cloud Practitioner Foundations**
+- ✅ **Operating Systems** - Google
+- ✅ **Linux System Programming**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu954&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepanshu954&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshu954&theme=github_dark)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepanshu954&theme=tokyonight-duo" alt="GitHub Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshu954&theme=github_dark" alt="Most Used Languages" height="180"/>
+</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu954&theme=tokyo-night)
 
 </div>
 
-### 🧠 LeetCode Stats
-<div align="center">
+---
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Deepanshu954?theme=dark&font=baloo)
+## 💻 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Deepanshu954?theme=dark&ext=heatmap" alt="LeetCode Stats & Heatmap" />
+</p>
+
+<div align="center">
+  
+**500+ Problems Solved** | **Rating: 1550+** | **Focus Areas: Graphs, DP, Trees, Advanced DS**
 
 </div>
 
-<h2>
-  <img align="center"
-       src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/Contact.gif"
-       width="37"/>
-  Contact Me
-</h2>
+---
 
-<p>
-  <i>You can reach out to me via</i>
-</p>
+## 🎯 Current Focus
 
-<p>
-  <a href="mailto:deepanshu95488@gmail.com">
-    <img align="center"
-         src="https://github.com/Deepanshu954/Deepanshu954/blob/main/icons/Gmail.gif"
-         width="100"/>
-  </a>
-</p>
+- 🔥 Mastering **Graph Algorithms** & **Dynamic Programming** for competitive coding
+- 🏗️ Building production-grade **distributed systems** with microservices
+- 📖 Deep diving into **System Design** patterns and scalability concepts
+- 🎓 Preparing for **Backend Engineering roles** at product-based companies
 
-<p>
-  🔗 <a href="https://www.linkedin.com/in/Deepanshu9548/" target="_blank">LinkedIn</a>
-  &nbsp;&nbsp;💻 <a href="https://leetcode.com/Deepanshu954/" target="_blank">LeetCode</a>
-  &nbsp;&nbsp;🧠 <a href="https://github.com/Deepanshu954" target="_blank">GitHub</a>
-</p>
+---
+
+<div align="center">
+  
+### 💬 Let's Connect and Build Something Amazing Together!
+
+</div>
