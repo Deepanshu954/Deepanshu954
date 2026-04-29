@@ -27,6 +27,12 @@
 
 ---
 
+## 📄 Resume
+
+📥 **[View / Download Resume](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf)**
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
