@@ -3,7 +3,8 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Developer | System Design Enthusiast | Competitive Programmer
+  Java Backend Developer | System Design Enthusiast | Competitive Programmer <br/>
+  📄 <a href="https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf">Resume</a>
 </h3>
 
 <p align="center">
