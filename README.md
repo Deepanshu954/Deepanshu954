@@ -30,7 +30,9 @@
 
 ## 📄 Resume
 
-📥 **[View / Download Resume](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf)**
+**[View](https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume%20.pdf)**
+/
+**[Download](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf)**
 
 ---
 
