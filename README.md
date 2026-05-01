@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Java Backend Developer | System Design Enthusiast | Competitive Programmer <br/>
-  📄 <a href="https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf">Resume</a>
+  📄 <a href="https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume.pdf">Resume</a>
 </h3>
 
 <p align="center">
@@ -30,9 +30,9 @@
 
 ## 📄 Resume
 
-**[View](https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume%20.pdf)**
+**[View](https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume.pdf)**
 /
-**[Download](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume%20.pdf)**
+**[Download](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume.pdf)**
 
 ---
 
