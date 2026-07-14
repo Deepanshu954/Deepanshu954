@@ -3,9 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Developer | System Design Enthusiast | Competitive Programmer <br/>
-  📄 <a href="https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume.pdf">Resume</a>
+  Java Backend Developer | Distributed Systems | System Design | Competitive Programmer
 </h3>
+
+<p align="center">
+  📄 <a href="https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume.pdf">Resume</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepanshu954&color=dc143c&style=flat-square" alt="Profile Views"/>
@@ -20,19 +23,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** | Bennett University | Expected Graduation: May 2027
-- 💼 **Currently Seeking:** Backend Development roles (Java/Spring Boot)
-- 🧠 **Core Expertise:** Data Structures & Algorithms, System Design, Backend Development
-- 💪 **LeetCode:** 500+ problems solved | Rating: 1550+ | Focus: Graphs, DP, Advanced DS
-- 🔧 **Building:** Scalable distributed systems with microservices architecture
+- 💼 **Currently Seeking:** Backend Engineering (SDE) roles — Java / Spring Boot, at product-based companies
+- 🧠 **Core Expertise:** Data Structures & Algorithms, System Design (HLD/LLD), Distributed Systems, Backend Development
+- 💪 **LeetCode:** 750+ problems solved | Rating: 1800+ &nbsp;|&nbsp; 🏅 **CodeChef:** 4★
+- 🏆 **Smart India Hackathon** — Participant, 2024 & 2025
 - 📫 **Reach me:** deepanshu95488@gmail.com
-
----
-
-## 📄 Resume
-
-**[View](https://github.com/Deepanshu954/Deepanshu954/blob/main/asset/Resume.pdf)**
-/
-**[Download](https://raw.githubusercontent.com/Deepanshu954/Deepanshu954/main/asset/Resume.pdf)**
 
 ---
 
@@ -96,61 +91,56 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Sentinel - ML-Powered Auto-Scaling System](https://github.com/Deepanshu954/sentinel)
-**Tech Stack:** Go, Java/Spring Boot, Python/FastAPI, Kafka, InfluxDB, Prometheus, Grafana, XGBoost
+### 🔹 [Sentinel — ML-Powered Auto-Scaling System](https://github.com/Deepanshu954/sentinel)
+**Tech Stack:** Go · Java/Spring Boot · Python/FastAPI · Kafka · InfluxDB · Prometheus · Grafana · XGBoost
 
-- Designed and implemented a distributed auto-scaling system using ML-based traffic prediction
-- Built Go-based API Gateway with health checks and request routing
-- Developed Java orchestrator with Spring Boot for resource management and scaling decisions
-- Integrated XGBoost + Isolation Forest for anomaly detection and traffic forecasting
-- Implemented real-time monitoring with Kafka, InfluxDB, Prometheus, and Grafana dashboards
-- Achieved 28/30 validation checks passing (targeting full production readiness)
-
----
-
-### 🔹 [Distributed URL Shortener Service](https://github.com/Deepanshu954/url-shortener)
-**Tech Stack:** Java/Spring Boot, Redis, PostgreSQL, Docker, AWS
-
-- Built high-performance URL shortening service with distributed architecture
-- Implemented Base62 encoding algorithm for compact URL generation
-- Used Redis for sub-millisecond lookup performance and PostgreSQL for persistence
-- Designed RESTful APIs with Spring Boot and Spring Security for authentication
-- Containerized application using Docker for seamless deployment
-- Deployed on AWS with auto-scaling and load balancing capabilities
+- Distributed auto-scaling system using ML-based traffic prediction, across a 3-service architecture: Go Gateway → Java Orchestrator → Python/FastAPI ML Service
+- Integrated **XGBoost + Isolation Forest** ensemble for real-time anomaly detection and traffic forecasting
+- **30/30 validation checks** passing — full production readiness
+- Delivered a **43% reduction in P95 latency** at 95M+ request scale
+- Real-time observability via Kafka, InfluxDB, Prometheus & Grafana dashboards
 
 ---
 
-### 🔹 [Mystic India - Cultural Showcase Platform](https://github.com/Deepanshu954/Mystic_India) | [Live Demo](https://mystic-india.netlify.app/)
-**Tech Stack:** HTML5, CSS3, JavaScript, Netlify
+### 🔹 [Distributed URL Shortener](https://github.com/Deepanshu954/url-shortener)
+**Tech Stack:** Java/Spring Boot · Redis · PostgreSQL · Docker · AWS
 
-- Developed responsive frontend showcasing Indian cultural heritage with modern UI/UX
-- Implemented performance optimizations achieving 90+ Lighthouse scores
-- Deployed on Netlify with CI/CD pipeline for automated deployments
+- High-performance URL shortening service sustaining **1,000+ req/s** throughput
+- Snowflake-style ID generation + Base62 encoding for compact, collision-free short URLs
+- Token-bucket rate limiting; **90%+ Redis cache hit rate** for sub-millisecond lookups, PostgreSQL for persistence
+- Spring Security-backed REST APIs, containerized with Docker, deployed on AWS with auto-scaling
 
 ---
 
-### 🔹 [Blockchain Applications Explorer](https://github.com/Deepanshu954/Blockchain-Applications) | [Live Demo](https://blockchain-applications-medc.vercel.app/)
-**Tech Stack:** React, Web3.js, TypeScript, Vercel
+### 🔹 [TrustChain-FL — Blockchain + Federated Learning Security](https://github.com/Deepanshu954/TrustChain-FL)
+**Tech Stack:** Solidity · PyTorch · Flower (FL) · Web3.py · Python
 
-- Built decentralized application demonstrating blockchain concepts and smart contract interactions
-- Integrated Web3.js for Ethereum blockchain connectivity
-- Implemented responsive React components with TypeScript for type safety
+- Trust-aware federated learning framework using on-chain smart contracts for client reputation scoring
+- **93.7% detection rate** for malicious clients via Byzantine-fault-tolerant aggregation
+- Published research on blockchain-integrated FL security mechanisms
+
+---
+
+### 🔹 [Mystic India — Cultural Showcase Platform](https://github.com/Deepanshu954/Mystic_India) | [Live Demo](https://mystic-india.netlify.app/)
+**Tech Stack:** HTML5 · CSS3 · JavaScript · Netlify
+
+- Responsive frontend showcasing Indian cultural heritage with modern UI/UX
+- 90+ Lighthouse performance score; CI/CD pipeline for automated deployments
 
 ---
 
 ## 📚 Research & Academic Work
 
 ### **Community Detection in Social Networks** | Semester VI Project
-- Proposed DW-Louvain framework combining Louvain algorithm with Independent Cascade diffusion model
-- Applied to Facebook Social Circles dataset for community structure analysis
-- Collaborated with team members on research paper and implementation
+- Proposed DW-Louvain framework combining the Louvain algorithm with an Independent Cascade diffusion model
+- Applied to the Facebook Social Circles dataset (80k+ nodes) for community structure analysis
 
 ---
 
 ## 📜 Certifications
 
 - ✅ **AWS Cloud Practitioner Foundations**
-- ✅ **Operating Systems** - Google
+- ✅ **Operating Systems** — Google
 - ✅ **Linux System Programming**
 
 ---
@@ -179,8 +169,8 @@
 </p>
 
 <div align="center">
-  
-**500+ Problems Solved** | **Rating: 1550+** | **Focus Areas: Graphs, DP, Trees, Advanced DS**
+
+**750+ Problems Solved** | **Rating: 1800+** | **Focus Areas: Heaps, Graphs, DP, Advanced DS**
 
 </div>
 
@@ -188,15 +178,15 @@
 
 ## 🎯 Current Focus
 
-- 🔥 Mastering **Graph Algorithms** & **Dynamic Programming** for competitive coding
-- 🏗️ Building production-grade **distributed systems** with microservices
-- 📖 Deep diving into **System Design** patterns and scalability concepts
-- 🎓 Preparing for **Backend Engineering roles** at product-based companies
+- 🎯 Interview-ready prep across **DSA, LLD, System Design & API Design** for product-based SDE roles
+- 🏗️ Deepening **HLD/LLD** — distributed systems trade-offs, design patterns, real-world system case studies
+- 🔥 Sharpening pattern mastery — Heaps, Two Pointers, Sliding Window, Graphs & DP
+- 🎓 Targeting Backend Engineering roles at product-based companies
 
 ---
 
 <div align="center">
-  
+
 ### 💬 Let's Connect and Build Something Amazing Together!
 
 </div>
